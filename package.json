@@ -1,0 +1,22 @@
+{
+  "name": "adoo_taller",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BrandonAscencio00077921/ADOO_taller.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/BrandonAscencio00077921/ADOO_taller/issues"
+  },
+  "homepage": "https://github.com/BrandonAscencio00077921/ADOO_taller#readme",
+  "devDependencies": {
+    "@playwright/test": "^1.56.1",
+    "@types/node": "^24.10.1"
+  }
+}
